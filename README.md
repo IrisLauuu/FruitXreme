@@ -10,4 +10,7 @@ Fruit level: grapes--cherry--mandarin--lemon--kiwifruit--tomato--peach--pineappl
 ![image](https://user-images.githubusercontent.com/42362114/170409573-31bdd49b-f355-425e-910b-0c9b8965ac24.png)
 
 ## Usage
+### source code
 git clone -b main
+### release ver1.0
+[executable build version on windows](https://github.com/IrisLauuu/FruitXreme/releases/tag/v1.0)
